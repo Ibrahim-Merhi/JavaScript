@@ -1,7 +1,7 @@
 var a;
-a="name"
+a="Name"
 var b;
-b="surname"
+b="Surname"
 var c;
-c="city"
-alert(a + ' ibra'+ b)
+c="City"
+alert(a +": Doe\n" +b +": John\n" +c +": New-York")
