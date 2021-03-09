@@ -1,2 +1,3 @@
-var name;
-window.alert("name  ");
+var a;
+a = "name";
+alert(a);
