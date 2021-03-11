@@ -1,11 +1,7 @@
-var div = document.createElement("div");
-div.id="new"
 
-function getNameValue(){
-
-
-  var name = document.getElementById("name").value;
-
-
-  document.getElementById("new").innerHTML= name
-}
+  function myFunction()
+  {
+      var input = document.getElementById('name')
+      var div = document.getElementById('new');
+      div.innerHTML = input.value;
+  }
