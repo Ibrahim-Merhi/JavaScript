@@ -9,5 +9,4 @@ var change_border = function() {
         confirm.style.border = "3px solid red";
     }
 }
-
 button.addEventListener("click", change_border);
